@@ -8,4 +8,5 @@ Git Github ikinci ucuncu gun ilk deneme
 Git Github ikinci ucuncu gun ikinci deneme
 MASTER BRANCH YENI EKLEME
 Git Github ikinci ucuncu gun alper branchi ilk deneme
+MASTER BRANCH IKINCI EKLEME
 
